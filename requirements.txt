@@ -9,4 +9,4 @@ gunicorn==19.9.0
 uvloop
 httptools
 tensorflow
-python-nltk
+nltk
